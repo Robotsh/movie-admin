@@ -56,7 +56,7 @@
   <div class="lyear-login">
     <div class="login-center">
       <div class="login-header text-center">
-        <a href="login"> <img alt="light year admin" src="${basePath}/static/images/logo-sidebar.png"> </a>
+        <a href="/admin/login"> <img alt="light year admin" src="${basePath}/static/images/logo-sidebar.png"> </a>
       </div>
       <form action="#!" method="post">
         <div class="form-group has-feedback feedback-left">
